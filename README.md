@@ -41,3 +41,13 @@ Configuración Inicial: Selección de Dificultad (Fácil, Normal, Difícil) y Tu
 Nivel 2 (Frente Clandestino): Emboscada en la ruta y gestión de herramientas tácticas.
 Nivel 3 (Voces en el Pueblo): Infiltración y dilemas morales en terreno hostil.
 Nivel Final (Cenizas y Memoria): Elección entre la Opción A (Cubrir la retirada) o la Opción B (El retorno a la tierra), cada una desencadenando un final distinto.
+
+DOCUMENTACIÓN DE CADA FASE 
+
+ANÁLISIS : En esta fase desarrolle la idea principal del videojuego , cosas como los personajes, la historia principal, que herramientas podemos utilizar dentro del juego y también para que público objetivo desarrollaría el juego , fue la base para poder realizar mi diagrama de flujo.
+
+DIAGRAMA DE FLUJO: En esta fase plasme la idea en un diagrama , organizando de manera ordenada cada parte del videojuego y como se enlazaría entre si para brindar una experiencia de juego sencilla e intuitiva, la función principal de esta fase fue ordenar la idea principal parea luego poder pasar a la creación del código en la consola.
+
+CÓDIGO: En esta fase use todas las herramientas disponibles en python para crear en código fuente del videojuego, luego de organizar las ideas en el diagrama de flujo , fué mas fácil desarrolar el código de forma ordenada con las herramientas antes vistas en python, como las clases padres e hijas  . 
+
+FASE DE GIT HUB : Por último use la página de git hub para subir a la nube todo el proceso que me llevo hacer el juego , aprendí a hacer un repositorio y que función tenia git hub para facilitar la programación desde varios puntos o compartiendo el código con más personas. 
